@@ -1,0 +1,40 @@
+h1{
+    background-color:purple ;
+}
+p1{
+    background-color: pink;
+}
+p2{
+    background-color: green;
+
+}
+body{
+    font-family:poppins;
+    
+    ;
+} 
+*{
+    margin:0;
+    padding:0;
+}
+h1{
+    color:green;
+}
+
+/* class selector */
+.main-class{
+    border: 2px solid red;
+}
+/* id selector */
+#main-id{
+    background-color: black;
+    color:pink;
+
+}
+/* group selector */
+h1,p2{
+    font-size: 20;
+    color: pink;
+    background-color:red;
+}
+
